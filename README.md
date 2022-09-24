@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+👨‍💻 I’m currently working on ...
+
+![Ti-Tai's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenTiTaiWang&show_icons=true&theme=dark&count_private=true)
+
+
 <!--
 **AllenTiTaiWang/AllenTiTaiWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
